@@ -1,0 +1,11 @@
+﻿TODO:
+
+- OS specific;
+  * needs second opinion;
+- XP use 'old-style' screenshots;
+- desktop thumbnail;
+- show display numbers on top
+  * fixed with thumbnail opacity;
+- make displays separate (offset);
+- winamp;
+- when a windowsPaint occurs theres a glitch, fix it with temporary screenshot of the desktop and repaint all thumbnails above again;

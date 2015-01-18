@@ -1,0 +1,337 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4A40F7AD-E982-473C-9D56-41BFBAF06FAB/f:TODO.txt" caret="0" fromTop="0" />
+      <File id="4A40F7AD-E982-473C-9D56-41BFBAF06FAB/f:Program.cs" caret="449" fromTop="21" />
+      <File id="4A40F7AD-E982-473C-9D56-41BFBAF06FAB/f:constants.txt" caret="10" fromTop="0" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.Designer.cs" caret="1170" fromTop="27" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Displays.cs" caret="3292" fromTop="33" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Windows.cs" caret="3077" fromTop="14" />
+      <File id="4A40F7AD-E982-473C-9D56-41BFBAF06FAB/d:Store/f:frm_DetectScreens.cs" caret="2156" fromTop="0" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="8530" fromTop="163" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Displays.cs" caret="4124" fromTop="26" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="4311" fromTop="17" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="535" fromTop="11" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="1686" fromTop="20" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="859" fromTop="21" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="2655" fromTop="28" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="1646" fromTop="19" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="1646" fromTop="18" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="8022" fromTop="21" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="2532" fromTop="21" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="7426" fromTop="20" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="3582" fromTop="40" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="4351" fromTop="29" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Displays.cs" caret="14867" fromTop="11" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Displays.cs" caret="15093" fromTop="17" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Displays.cs" caret="15598" fromTop="15" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Displays.cs" caret="6316" fromTop="14" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Displays.cs" caret="6023" fromTop="7" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Displays.cs" caret="6403" fromTop="19" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="2205" fromTop="14" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Displays.cs" caret="14395" fromTop="11" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Displays.cs" caret="7386" fromTop="9" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Factory/f:Displays.cs" caret="8801" fromTop="19" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="4112" fromTop="26" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="2467" fromTop="35" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="5814" fromTop="35" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="8662" fromTop="15" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="8803" fromTop="17" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="2349" fromTop="35" />
+      <File id="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C/d:Controls/f:DisplayWindowManager.cs" caret="2354" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="if" priority="20" />
+      <Item value="this" priority="13" />
+      <Item value="null" priority="2" />
+      <Item value="throw" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="new" priority="10" />
+      <Item value="Exception" priority="0" />
+      <Item value="toolStripLabel1" priority="0" />
+      <Item value="w" priority="0" />
+      <Item value="Maximized" priority="0" />
+      <Item value="true" priority="14" />
+      <Item value="Title" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="hwnd" priority="6" />
+      <Item value="programTitle" priority="0" />
+      <Item value="IDisposable`0" priority="2" />
+      <Item value="float" priority="4" />
+      <Item value="Int32`0" priority="8" />
+      <Item value="FlowDirection`0" priority="0" />
+      <Item value="Single`0" priority="0" />
+      <Item value="private" priority="4" />
+      <Item value="Rectangle`0" priority="1" />
+      <Item value="Rectangle" priority="3" />
+      <Item value="return" priority="5" />
+      <Item value="bounds" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="protected" priority="1" />
+      <Item value="public" priority="10" />
+      <Item value="Boolean`0" priority="4" />
+      <Item value="Byte`0" priority="0" />
+      <Item value="thumbnailDestination" priority="4" />
+      <Item value="Windows`0" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="addTaskbar" priority="3" />
+      <Item value="addDesktop" priority="1" />
+      <Item value="false" priority="15" />
+      <Item value="Pen" priority="1" />
+      <Item value="_graphics" priority="6" />
+      <Item value="GraphicsContainer`0" priority="0" />
+      <Item value="Debug`0" priority="14" />
+      <Item value="thumbnailSource" priority="0" />
+      <Item value="windowPosition" priority="1" />
+      <Item value="windowIntersection" priority="0" />
+      <Item value="Scale" priority="4" />
+      <Item value="class" priority="1" />
+      <Item value="Panel`0" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="Win32`0" priority="14" />
+      <Item value="m" priority="10" />
+      <Item value="int" priority="5" />
+      <Item value="IntPtr`0" priority="6" />
+      <Item value="else" priority="5" />
+      <Item value="x" priority="1" />
+      <Item value="y" priority="0" />
+      <Item value="onDisplay" priority="0" />
+      <Item value="MouseIsOnGlass`0" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="Cursor`0" priority="0" />
+      <Item value="Cursors`0" priority="1" />
+      <Item value="_onGlass" priority="3" />
+      <Item value="Handle" priority="2" />
+      <Item value="FormBorderStyle" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="Windows" priority="0" />
+      <Item value="Forms" priority="0" />
+      <Item value="Form`0" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="MS" priority="0" />
+      <Item value="const" priority="1" />
+      <Item value="switch" priority="1" />
+      <Item value="msg" priority="0" />
+      <Item value="case" priority="2" />
+      <Item value="break" priority="4" />
+      <Item value="uint" priority="0" />
+      <Item value="UInt32`0" priority="0" />
+      <Item value="onResizeBorder" priority="0" />
+      <Item value="Cursor" priority="3" />
+      <Item value="default" priority="0" />
+      <Item value="thumbNew" priority="0" />
+      <Item value="continue" priority="1" />
+      <Item value="window" priority="0" />
+      <Item value="Factory" priority="0" />
+      <Item value="partial" priority="0" />
+      <Item value="HelperFramework" priority="0" />
+      <Item value="Offset" priority="1" />
+      <Item value="rectBorder" priority="2" />
+      <Item value="border" priority="2" />
+      <Item value="Brush`0" priority="1" />
+      <Item value="Brushes`0" priority="0" />
+      <Item value="AntiAlias" priority="0" />
+      <Item value="Default" priority="0" />
+      <Item value="SystemInformation`0" priority="0" />
+      <Item value="ulong" priority="0" />
+      <Item value="index" priority="4" />
+      <Item value="_panelScale" priority="2" />
+      <Item value="Double`0" priority="3" />
+      <Item value="Math`0" priority="0" />
+      <Item value="Invalidate`0" priority="1" />
+      <Item value="Graphics`0" priority="0" />
+      <Item value="g" priority="0" />
+      <Item value="_timer" priority="0" />
+      <Item value="global" priority="0" />
+      <Item value="OnSystemColorsChanged`0" priority="0" />
+      <Item value="Color`0" priority="0" />
+      <Item value="_workingArea" priority="0" />
+      <Item value="_offset" priority="0" />
+      <Item value="Point" priority="0" />
+      <Item value="paintWindows" priority="0" />
+      <Item value="ParentForm" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DetectScreens.Controls.DisplayWindowManager">
+      <Item value="ParentForm" priority="0" />
+      <Item value="Cursor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripLabel">
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DetectScreens.Factory.Window">
+      <Item value="Maximized" priority="0" />
+      <Item value="Unregister`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Rectangle">
+      <Item value="X" priority="2" />
+      <Item value="Y" priority="1" />
+      <Item value="Width" priority="3" />
+      <Item value="Height" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="DrawRectangle`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="BeginContainer`0" priority="1" />
+      <Item value="EndContainer`0" priority="0" />
+      <Item value="FillRectangle`0" priority="0" />
+      <Item value="SmoothingMode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="16" />
+      <Item value="WriteIf`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Message">
+      <Item value="Result" priority="3" />
+      <Item value="Msg" priority="5" />
+      <Item value="WParam" priority="2" />
+      <Item value="LParam" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DetectScreens.Factory.Win32">
+      <Item value="WM`0" priority="8" />
+      <Item value="SM`0" priority="0" />
+      <Item value="HT`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DetectScreens.Factory.Win32+WM">
+      <Item value="NCHITTEST" priority="0" />
+      <Item value="NCACTIVATE" priority="0" />
+      <Item value="ACTIVATE" priority="0" />
+      <Item value="SIZING" priority="0" />
+      <Item value="EXITSIZEMOVE" priority="0" />
+      <Item value="NCLBUTTONDBLCLK" priority="0" />
+      <Item value="SETCURSOR" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IntPtr">
+      <Item value="ToInt32`0" priority="7" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="ToPointer`0" priority="0" />
+      <Item value="ToInt64`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MouseEventArgs">
+      <Item value="Location" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Cursors">
+      <Item value="Cross" priority="0" />
+      <Item value="No" priority="0" />
+      <Item value="SizeAll" priority="0" />
+      <Item value="Help" priority="2" />
+      <Item value="Hand" priority="0" />
+      <Item value="Default" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DetectScreens.Store.FrmDetectScreens">
+      <Item value="Cursor" priority="0" />
+      <Item value="FormBorderStyle" priority="0" />
+      <Item value="MinimumSize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Cursor">
+      <Item value="Current" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IntPtr">
+      <Item value="Zero" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DetectScreens.Factory.Win32+HT">
+      <Item value="TOP" priority="1" />
+      <Item value="BOTTOM" priority="2" />
+      <Item value="BORDER" priority="0" />
+      <Item value="RIGHT" priority="1" />
+      <Item value="LEFT" priority="1" />
+      <Item value="TOPRIGHT" priority="1" />
+      <Item value="BOTTOMRIGHT" priority="0" />
+      <Item value="BOTTOMLEFT" priority="0" />
+      <Item value="TOPLEFT" priority="0" />
+      <Item value="CAPTION" priority="1" />
+      <Item value="NOWHERE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.SystemInformation">
+      <Item value="CaptionButtonSize" priority="0" />
+      <Item value="WorkingArea" priority="0" />
+      <Item value="VirtualScreen" priority="0" />
+      <Item value="ScreenOrientation" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DetectScreens.Factory.Win32+SM">
+      <Item value="CXMENUSIZE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Brushes">
+      <Item value="Red" priority="0" />
+      <Item value="Gray" priority="0" />
+      <Item value="Green" priority="0" />
+      <Item value="Purple" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Drawing2D.SmoothingMode">
+      <Item value="None" priority="0" />
+      <Item value="HighQuality" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HelperFramework.Win32+GWL">
+      <Item value="EXSTYLE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HelperFramework.Win32+WS">
+      <Item value="EX`0" priority="1" />
+      <Item value="VISIBLE" priority="0" />
+      <Item value="CLIPSIBLINGS" priority="0" />
+      <Item value="CLIPCHILDREN" priority="0" />
+      <Item value="OVERLAPPED" priority="0" />
+      <Item value="POPUP" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HelperFramework.Win32+WS+EX">
+      <Item value="TOOLWINDOW" priority="2" />
+      <Item value="APPWINDOW" priority="1" />
+      <Item value="TOPMOST" priority="1" />
+      <Item value="LEFT" priority="1" />
+      <Item value="LTRREADING" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HelperFramework.Win32">
+      <Item value="WS`0" priority="3" />
+      <Item value="DeregisterShellHookWindow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PaintEventArgs">
+      <Item value="Graphics" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Purple" priority="0" />
+      <Item value="Yellow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DisplayWindowManager.Controls.DisplayWindowManager">
+      <Item value="MouseMove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="FormClosed" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

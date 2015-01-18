@@ -1,0 +1,3 @@
+﻿NOSHELL => no displays & no windows;
+NOTIMER => don't activate timer;
+NOGLASS => don't add glass effect to form;

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="DetectScreens.exe" publicKeyToken="127fb714b8d60753" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Resources\msinfo32.exe-399.ICO" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DetectScreens" version="0.0.0.6" language="neutral" processorArchitecture="msil" />
+    <commandLine file="DetectScreens.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DetectScreens.exe" size="210432">
+      <assemblyIdentity name="DetectScreens" version="0.0.0.6" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>4sqCL3eZp1pS5jIrg7hsYsAVBJY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DetectScreens.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LVSG+8JwncKNRgYiojZLonLGlTY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\accessibilitycpl.dll-321.ICO" size="231103">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+5MFcsYsDR11dD+rquWBOuWtDRI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Display.dll-1.ICO" size="179848">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>SNspQxPPoMzHWcXee2VynJ4W2X4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\msinfo32.exe-399.ICO" size="72911">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>zr0I4oc7tAPPE3PQsbc7CVnMD4s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TODO.txt" size="464">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wGofTu0JqjZIxexMT/eEQ3zPXTo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=WINDOWS7X64\jerone" issuerKeyHash="d1a7c44295ec0e5769de92b0b17fc21ee710955c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>PF1UpzJGaogFTByazP8xRTOvMU8=</DigestValue></Reference></SignedInfo><SignatureValue>Hl50Y/3S4ORkRBlIImxtPIBBYqjw7CIn/M+0V+K4PAl3QtVDJ7Vp5V1dciFREFb4Nr5ML6Evbk1vBw+lxcP2hGGnG85Jp7Vv5HDlrHfs8ezZebipBB4KgUTJDlD77xahSPwzrGiYdF6QPYej8oW5g3We0fDX9OAFhh2JBgiVh40=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>u5LuNCdc5aQnX/4bpZbQcEbfzBC2iQFyK52yVr5OU/+qJvQ0I2U0EXduO+OZ6gj0svSSV9bNOo0/NwdB/UwqT0uzEi5lD8MB3tkX9dK1m67OOTSePiWR/NW/1oo7KAtBsVMz0B89xGqVNVKyFet0r3sziawoZJSzy7TgVcUcEVM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4f31af334531ffcc9a1c4c05886a4632a7545d3c" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="DetectScreens.exe" publicKeyToken="127fb714b8d60753" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=WINDOWS7X64\jerone</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>YPXjYzKybtDK566kbSMKG3FvQOg=</DigestValue></Reference></SignedInfo><SignatureValue>RQRWdMAsI3scztDaqlJwYcevp1AqjSxAj4wxmrQZru9YwwG5VM8fzqLoY4JS1caIIW5U0RvsQtj4pB8lhoAwmZ0oiVpJL+/Ajj9exMV2CiALC3TXcN6zQHJvWmTbTmjfeOz2COyTb5Sy6NLgIJAVPf9/29GetO2K9Iz7mLXq5rw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>u5LuNCdc5aQnX/4bpZbQcEbfzBC2iQFyK52yVr5OU/+qJvQ0I2U0EXduO+OZ6gj0svSSV9bNOo0/NwdB/UwqT0uzEi5lD8MB3tkX9dK1m67OOTSePiWR/NW/1oo7KAtBsVMz0B89xGqVNVKyFet0r3sziawoZJSzy7TgVcUcEVM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQPeiah2jjcJRMaVSHJnVYRzANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQAVwBJAE4ARABPAFcAUwA3AFgANgA0AFwAagBlAHIAbwBuAGUwHhcNMTEwNjIzMTUxNDU5WhcNMTIwNjIyMjExNDU5WjAvMS0wKwYDVQQDHiQAVwBJAE4ARABPAFcAUwA3AFgANgA0AFwAagBlAHIAbwBuAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALuS7jQnXOWkJ1/+G6WW0HBG38wQtokBciudsla+TlP/qib0NCNlNBF3bjvjmeoI9LL0klfWzTqNPzcHQf1MKk9LsxIuZQ/DAd7ZF/XStZuuzjk0nj4lkfzVv9aKOygLQbFTM9AfPcRqlTVSshXrdK97M4msKGSUs8u04FXFHBFTAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAMINuMbjwMHVlDhvEYrnnFh4NfhGFpfFVcfJf+qKnyUrtxVSQNr81f6vrniIHJLND0HK5sqv/T+lVYpfghjkVtKtDxAvHTh4N6FctPVQjrNO7gi1uFmyK0NWsd6GzcUfpaLK9CF8ANy44U61KgOubc/6FpibzBRLbItk5ERc/vIs=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

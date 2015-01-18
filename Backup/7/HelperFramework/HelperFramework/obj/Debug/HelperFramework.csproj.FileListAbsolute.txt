@@ -1,0 +1,5 @@
+C:\Users\jerone\Documents\Visual Studio 2010\Projects\HelperFramework\HelperFramework\bin\Debug\HelperFramework.dll
+C:\Users\jerone\Documents\Visual Studio 2010\Projects\HelperFramework\HelperFramework\bin\Debug\HelperFramework.pdb
+C:\Users\jerone\Documents\Visual Studio 2010\Projects\HelperFramework\HelperFramework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jerone\Documents\Visual Studio 2010\Projects\HelperFramework\HelperFramework\obj\Debug\HelperFramework.dll
+C:\Users\jerone\Documents\Visual Studio 2010\Projects\HelperFramework\HelperFramework\obj\Debug\HelperFramework.pdb

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectScreens", "DetectScreens\DetectScreens.csproj", "{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayWindowManager", "DisplayWindowManager\DisplayWindowManager.csproj", "{5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperFramework", "..\..\..\Visual Studio 2010\Projects\HelperFramework\HelperFramework\HelperFramework.csproj", "{E840D0EF-8A0E-46AE-8936-68B34DF19AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Debug|x64.ActiveCfg = Debug|x64
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Debug|x64.Build.0 = Debug|x64
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Debug|x86.ActiveCfg = Debug|x86
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Debug|x86.Build.0 = Debug|x86
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Release|x64.ActiveCfg = Release|x64
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Release|x64.Build.0 = Release|x64
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Release|x86.ActiveCfg = Release|x86
+		{4A40F7AD-E982-473C-9D56-41BFBAF06FAB}.Release|x86.Build.0 = Release|x86
+		{5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C}.Release|x64.ActiveCfg = Release|Any CPU
+		{5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C}.Release|x86.ActiveCfg = Release|Any CPU
+		{E840D0EF-8A0E-46AE-8936-68B34DF19AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E840D0EF-8A0E-46AE-8936-68B34DF19AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E840D0EF-8A0E-46AE-8936-68B34DF19AAB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E840D0EF-8A0E-46AE-8936-68B34DF19AAB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E840D0EF-8A0E-46AE-8936-68B34DF19AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E840D0EF-8A0E-46AE-8936-68B34DF19AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E840D0EF-8A0E-46AE-8936-68B34DF19AAB}.Release|x64.ActiveCfg = Release|Any CPU
+		{E840D0EF-8A0E-46AE-8936-68B34DF19AAB}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

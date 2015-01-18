@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DetectScreens</name>
+    </assembly>
+    <members>
+        <member name="T:DetectScreens.Factory.Display">
+            <summary>
+            Class for a computer display;
+            </summary>
+        </member>
+        <member name="T:DetectScreens.Factory.Displays">
+            <summary>
+            List of all display's;
+            </summary>
+        </member>
+        <member name="T:DetectScreens.Store.frm_Identify">
+            <summary>
+            Overlay identifier for each monitor;
+            </summary>
+        </member>
+        <member name="F:DetectScreens.Store.frm_Identify.border">
+            <summary>
+            Border size;
+            </summary>
+        </member>
+        <member name="F:DetectScreens.Store.frm_Identify.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="F:DetectScreens.Store.frm_Identify.borderColor">
+            <summary>
+            Color of the border;
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.frm_Identify.#ctor">
+            <summary>
+            Overlay identifier for each monitor;
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.frm_Identify.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.frm_Identify.OnPaint(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            Paint event;
+            </summary>
+            <param name="e">A System.Windows.Forms.PaintEventArgs that contains the event data;</param>
+        </member>
+        <member name="M:DetectScreens.Store.frm_Identify.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="P:DetectScreens.Store.frm_Identify.Nr">
+            <summary>
+            Number of the monitor to display;
+            </summary>
+        </member>
+        <member name="T:DetectScreens.Store.frm_screens">
+            <summary>
+            DetectScreens;
+            </summary>
+        </member>
+        <member name="F:DetectScreens.Store.frm_screens.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.frm_screens.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.frm_screens.#ctor">
+            <summary>
+            DetectScreens;
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.frm_screens.OnPaintBackground(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            Paints the background of the control.
+            </summary>
+            <param name="e">A System.Windows.Forms.PaintEventArgs that contains the event data.</param>
+        </member>
+        <member name="M:DetectScreens.Store.frm_screens.WndProc(System.Windows.Forms.Message@)">
+            <summary>
+            The Windows System.Windows.Forms.Message.
+            </summary>
+            <param name="m">The Windows System.Windows.Forms.Message to process.</param>
+        </member>
+        <member name="T:DetectScreens.Factory.Window">
+            <summary>
+            Class for program windows;
+            </summary>
+        </member>
+        <member name="T:DetectScreens.Factory.Desktop">
+            <summary>
+            Class for the desktop;
+            </summary>
+        </member>
+        <member name="T:DetectScreens.Factory.Windows">
+            <summary>
+            List of all windows;
+            </summary>
+        </member>
+        <member name="T:DetectScreens.Factory.Utilities">
+            <summary>
+            Class to extend .NET functionality;
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Factory.Utilities.Divide(System.Drawing.Rectangle,System.Int32)">
+            <summary>
+            Divides a rectangle with an value;
+            </summary>
+            <param name="source">The rectangle;</param>
+            <param name="divider">The divider;</param>
+            <returns>A new rectangle divided by the <paramref name="divider"/>;</returns>
+        </member>
+        <member name="M:DetectScreens.Factory.Utilities.IsSingleInstance(System.String)">
+            <summary>
+            Checks of current window is already running;
+            </summary>
+            <param name="windowTitle">Window title</param>
+            <returns>true if single instance, false if already running</returns>
+        </member>
+        <member name="T:DetectScreens.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:DetectScreens.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:DetectScreens.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Program.Main(System.String[])">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:DetectScreens.Controls.DisplayWindowManager">
+            <summary>
+            Control that combines Displays and Windows;
+            </summary>
+        </member>
+        <member name="F:DetectScreens.Controls.DisplayWindowManager.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Controls.DisplayWindowManager.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Controls.DisplayWindowManager.#ctor(System.IntPtr)">
+            <summary>
+            Control that combines Displays and Windows;
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Controls.DisplayWindowManager.WndProc(System.Windows.Forms.Message@)">
+            <summary>
+            The Windows System.Windows.Forms.Message.
+            </summary>
+            <param name="m">The Windows System.Windows.Forms.Message to process.</param>
+        </member>
+        <member name="M:DetectScreens.Controls.DisplayWindowManager.Dispose(System.Boolean)">
+            <summary>
+            Disposes of the resources (other than memory) used by the System.Windows.Forms.Form.
+            </summary>
+            <param name="disposing">true to release both managed and unmanaged resources; false to release only unmanaged resources.</param>
+        </member>
+        <member name="P:DetectScreens.Controls.DisplayWindowManager.Handler">
+            <summary>
+            The Handle of this program.
+            </summary>
+        </member>
+    </members>
+</doc>

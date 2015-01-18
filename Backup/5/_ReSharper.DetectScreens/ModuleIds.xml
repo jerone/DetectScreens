@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="4A40F7AD-E982-473C-9D56-41BFBAF06FAB" ModuleId="DetectScreens" />
+  <Module PersistentId="5E7653AE-DE97-4112-99A5-BE1A8D8FFE0C" ModuleId="DisplayWindowManager" />
+  <Module PersistentId="E840D0EF-8A0E-46AE-8936-68B34DF19AAB" ModuleId="HelperFramework" />
+</Modules>

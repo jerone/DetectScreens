@@ -1,0 +1,14 @@
+﻿TODO:
+
+- OS specific;
+  * needs second opinion;
+  + Tested it with W7 64 & 32 bits;
+- XP use 'old-style' screenshots;
+- show display numbers on top
+  * fixed with thumbnail opacity;
+  * problem; can't paint above a thumbnail;
+- make displays separate (offset);
+- winamp;
+- when a windowsPaint occurs theres a flicker, fix it with temporary screenshot of the desktop and repaint all thumbnails above again;
+  * problem; can't paint above a thumbnail;
+- show tooltip information on display hover;

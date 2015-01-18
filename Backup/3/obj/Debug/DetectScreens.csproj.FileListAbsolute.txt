@@ -1,0 +1,15 @@
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\bin\Debug\DetectScreens.exe.config
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\bin\Debug\DetectScreens.XML
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\bin\Debug\DetectScreens.exe
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\bin\Debug\DetectScreens.pdb
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\obj\Debug\DetectScreens.Controls.DisplayWindowManager.resources
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\obj\Debug\DetectScreens.Store.frm_screens.resources
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\obj\Debug\DetectScreens.Properties.Resources.resources
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\obj\Debug\DetectScreens.Store.frm_Identify.resources
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\obj\Debug\DetectScreens.exe
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\obj\Debug\DetectScreens.pdb
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\DetectScreens\obj\Debug\GenerateResource.write.1.tlog

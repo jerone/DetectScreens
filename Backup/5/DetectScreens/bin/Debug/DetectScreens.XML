@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DetectScreens</name>
+    </assembly>
+    <members>
+        <member name="T:DetectScreens.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:DetectScreens.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:DetectScreens.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:DetectScreens.Properties.Resources.Program_Main_CompositionNotEnabled">
+             <summary>
+               Looks up a localized string similar to This program needs Aero Glass, but it seems to be disabled. Click &apos;OK&apos; to still open the program.
+            
+            Warning: crashes may occur. Try at your own risk..
+             </summary>
+        </member>
+        <member name="P:DetectScreens.Properties.Resources.Program_Main_CompositionNotEnabled_Title">
+            <summary>
+              Looks up a localized string similar to Aero Glass disabled.
+            </summary>
+        </member>
+        <member name="P:DetectScreens.Properties.Resources.Program_Main_OSVistaOrHigher">
+             <summary>
+               Looks up a localized string similar to Your Operating System is not supported by this program. Try it on Windows Vista, Windows 7 and higher. Click &apos;OK&apos; to still open the program.
+            
+            Warning: crashes may occur. Try at your own risk..
+             </summary>
+        </member>
+        <member name="P:DetectScreens.Properties.Resources.Program_Main_OSVistaOrHigher_Title">
+            <summary>
+              Looks up a localized string similar to OS not supported.
+            </summary>
+        </member>
+        <member name="T:DetectScreens.Store.FrmDetectScreens">
+            <summary>
+            DetectScreens;
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.FrmDetectScreens.#ctor">
+            <summary>
+            DetectScreens form;
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.FrmDetectScreens.OnLoad(System.EventArgs)">
+            <summary>
+            Raises the <see cref="E:System.Windows.Forms.Form.Load"/> event.
+            </summary>
+            <param name="e">An <see cref="T:System.EventArgs"/> that contains the event data. </param>
+        </member>
+        <member name="M:DetectScreens.Store.FrmDetectScreens.OnShown(System.EventArgs)">
+            <summary>
+            Raises the <see cref="E:System.Windows.Forms.Form.Shown"/> event.
+            </summary>
+            <param name="e">A <see cref="T:System.EventArgs"/> that contains the event data. </param>
+        </member>
+        <member name="M:DetectScreens.Store.FrmDetectScreens.WndProc(System.Windows.Forms.Message@)">
+            <summary>
+            The Windows System.Windows.Forms.Message.
+            </summary>
+            <param name="m">The Windows <see cref="T:System.Windows.Forms.Message"/> to process. </param>
+        </member>
+        <member name="M:DetectScreens.Store.FrmDetectScreens.BtnPreviewClick(System.Object,System.EventArgs)">
+            <summary>
+            Click event for show preview windows;
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:DetectScreens.Store.FrmDetectScreens.BtnResolutionClick(System.Object,System.EventArgs)">
+            <summary>
+            Click event for showing Windows Resolution window;
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:DetectScreens.Store.FrmDetectScreens.MouseIsOnGlass(System.Int32)">
+            <summary>
+            Detect if mouse cursor is above the glass part;
+            </summary>
+            <param name="lParam"></param>
+            <returns></returns>
+        </member>
+        <member name="F:DetectScreens.Store.FrmDetectScreens.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.FrmDetectScreens.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DetectScreens.Store.FrmDetectScreens.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:DetectScreens.Store.FrmIdentify">
+            <summary>
+            Overlay identifier for each monitor;
+            </summary>
+        </member>
+        <member name="F:DetectScreens.Store.FrmIdentify.BORDER">
+            <summary>
+            Border size;
+            </summary>
+        </member>
+        <member name="F:DetectScreens.Store.FrmIdentify.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="F:DetectScreens.Store.FrmIdentify.BorderColor">
+            <summary>
+            Color of the border;
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.FrmIdentify.#ctor">
+            <summary>
+            Overlay identifier for each monitor;
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.FrmIdentify.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Store.FrmIdentify.OnPaint(System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            Paint event;
+            </summary>
+            <param name="e">A System.Windows.Forms.PaintEventArgs that contains the event data;</param>
+        </member>
+        <member name="M:DetectScreens.Store.FrmIdentify.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="P:DetectScreens.Store.FrmIdentify.Nr">
+            <summary>
+            Number of the monitor to display;
+            </summary>
+        </member>
+        <member name="M:DetectScreens.Program.Main(System.String[])">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+    </members>
+</doc>

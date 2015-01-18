@@ -1,0 +1,17 @@
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\bin\Debug\DetectScreens.exe
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\bin\Debug\DetectScreens.exe.config
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\Debug\DetectScreens.Controls.DisplayWindowManager.resources
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\Debug\DetectScreens.Properties.Resources.resources
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\Debug\DetectScreens.Store.FrmIdentify.resources
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\Debug\DetectScreens.exe
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\Debug\DetectScreens.pdb
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\bin\Debug\DetectScreens.pdb
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\Debug\DetectScreens.Store.FrmDetectScreens.resources
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\bin\Debug\DetectScreens.XML
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\4\DetectScreens\bin\Debug\DetectScreens.exe.config
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\4\DetectScreens\bin\Debug\DetectScreens.XML
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\4\DetectScreens\obj\Debug\DetectScreens.exe
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\Backup\4\DetectScreens\obj\Debug\DetectScreens.pdb

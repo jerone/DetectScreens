@@ -1,0 +1,10 @@
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DisplayWindowManager\bin\Debug\DisplayWindowManager.dll
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DisplayWindowManager\bin\Debug\DisplayWindowManager.pdb
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DisplayWindowManager\bin\Debug\HelperFramework.dll
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DisplayWindowManager\bin\Debug\HelperFramework.pdb
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DisplayWindowManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DisplayWindowManager\obj\Debug\DisplayWindowManager.Controls.DisplayWindowManager.resources
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DisplayWindowManager\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DisplayWindowManager\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DisplayWindowManager\obj\Debug\DisplayWindowManager.dll
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DisplayWindowManager\obj\Debug\DisplayWindowManager.pdb

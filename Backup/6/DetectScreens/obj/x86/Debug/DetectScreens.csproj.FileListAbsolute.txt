@@ -1,0 +1,9 @@
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\bin\x86\Debug\DetectScreens.exe.config
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\bin\x86\Debug\DetectScreens.exe
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\bin\x86\Debug\DetectScreens.pdb
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\x86\Debug\DetectScreens.frm_screens.resources
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\x86\Debug\DetectScreens.Properties.Resources.resources
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\x86\Debug\DetectScreens.csproj.GenerateResource.Cache
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\x86\Debug\DetectScreens.exe
+C:\Users\jerone\Documents\Visual Studio 2008\Projects\DetectScreens\DetectScreens\obj\x86\Debug\DetectScreens.pdb
